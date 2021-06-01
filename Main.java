@@ -3,7 +3,7 @@ public class Main{
 	public static void main(String[]arr){
 
 		System.out.println("1.addition");
-		System.out.println("2.sub");
+		System.out.println("2.substraction");
 		System.out.println("3.mul");
 		System.out.println("4.div");
 
@@ -17,7 +17,7 @@ public class Main{
 			System.out.println("addition");
 		}
 		else if(choice==2){
-			System.out.println("sub");
+			System.out.println("substraction");
 		}
 		else if(choice==3){
 			System.out.println("mul");
